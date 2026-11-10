@@ -1,0 +1,9 @@
+node_modules/
+dist/
+__pycache__/
+*.pyc
+.venv/
+.env
+my_notes.db
+test_my_notes.db
+.pytest_cache/
